@@ -1,0 +1,2 @@
+101,paracetamol,50.0,20
+102,amoxicillin,100.0,8
